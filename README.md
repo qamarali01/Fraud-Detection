@@ -20,9 +20,7 @@ Logistic regression is a commonly used algorithm for binary classification tasks
 6. Model Evaluation:
 - The trained model is evaluated on the testing set using the `classification_report` from
 scikit-learn. This report provides metrics such as precision, recall, F1-score, and support for each class, allowing a comprehensive assessment of the model's performance.
-Submitted by
-Qamar Ali qamarali9584@gmail.com
-+91-8851175381
+
  
  How I selected the variables?
 I performed a correlation analysis on the data which gave me the correlation between the target variable and the remaining features.
